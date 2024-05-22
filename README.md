@@ -2,7 +2,7 @@
 
 **OBJECTIVE**
 
-**The Federal Anesthesia Record Standard (FARS) is a peer-reviewed, practice-driven public-licensed information model to enable computable exchange of the electronic anesthesia and critical care records between the electronic health record systems of the VA, DoD, and Community.**  
+**The Federal Anesthesia Record Standard (FARS) is a peer-reviewed, practice-driven public-licensed information model to enable computable exchange of the electronic anesthesia record between the electronic health record (EHR) systems of the VA, DoD, and Community.**  
 
 FARS is based on [JSON](https://en.wikipedia.org/wiki/JSON), the data model used by all internet connected devices, and used by the international health record exchange standard.
 
