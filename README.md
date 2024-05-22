@@ -2,17 +2,16 @@
 
 The Federal Anesthesia Record Standard (FARS) is a peer-reviewed, practice-driven public-licensed information model to enable computable exchange of the anesthesia record between anesthesia information management systems (AIMS) and electronic health record (EHR) systems nationwide.  FARS is based on [JSON](https://en.wikipedia.org/wiki/JSON), the data model used by all internet connected systems and devices, and used by the U.S. health record exchange standard [FHIR](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources)  
 
-Implementing FARS complies with the 2016 U.S. [CURES Act](https://en.wikipedia.org/wiki/21st_Century_Cures_Act) which requrires that the patients' health record - including all anesthesia and critical care records - must be accessible to all patients at no cost and with no special effort. Noncompliance -  known as "information blocking" - carries a fine of up to $1 million for each violation.
+Implementing FARS complies with the 2016 U.S. [CURES Act](https://en.wikipedia.org/wiki/21st_Century_Cures_Act) which requrires that the patients' health record - including all anesthesia and critical care records - must be accessible to all patients at no cost and with no special effort. Noncompliance (known as "information blocking") carries a fine of up to $1 million for each violation.
 
 
 **References**  
-* Federal Anesthesia Record (PDF): https://www.gsa.gov/reference/forms/medical-record-anesthesia
+* https://www.gsa.gov/reference/forms/medical-record-anesthesia
 * [ASA Monitor:Open Anesthesia Records: Guidance for Anesthesia Providers on Implementing the Cures Act](https://pubs.asahq.org/monitor/article/85/2/e3/115119/Open-Anesthesia-Records-Guidance-for-Anesthesia)
 * [FDA: guidance for anesthesia on implementing the Cures Act](https://www.opennotes.org/research/open-anesthesia-records-guidance-for-anesthesia-providers-on-implementing-the-cures-act)
 * [Anesthesia & Analgesia: Sharing Anesthesia Records With Patients](https://journals.lww.com/anesthesia-analgesia/Fulltext/2022/10000/Keeping_an_Open_Mind_About_Open_Notes__Sharing.8.aspx)
 * [ Anesthesia & Analgesia: Engaging Transparency and Being on the Right Side of History](https://journals.lww.com/anesthesia-analgesia/Citation/2022/10000/Engaging_Transparency_and_Being_on_the_Right_Side.7.aspx)
 * [Why should anesthesiologists be concerned with infomration blocking?](https://www.anesthesiallc.com/publications/anesthesia-provider-news-ealerts/1219-why-should-anesthesia-providers-care-about-information-blocking-2)
-* [Pediatric Anesthesiology: The Cures Act](https://ronlitman.substack.com/p/the-cures-act)
 * [HealthIT.gov: Information Blocking](https://www.healthit.gov/topic/information-blocking)
 * [Federal Register: 21st Century Cures Act: Interoperability, Information Blocking, and the ONC Health IT Certification Program](https://www.federalregister.gov/documents/2020/05/01/2020-07419/21st-century-cures-act-interoperability-information-blocking-and-the-onc-health-it-certification)
 
