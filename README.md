@@ -5,7 +5,7 @@ The Federal Anesthesia Record Standard (FARS) is a peer-reviewed, practice-drive
 Implementing FARS complies with the 2016 U.S. [CURES Act](https://en.wikipedia.org/wiki/21st_Century_Cures_Act) which requrires that the patients' health record - including all anesthesia and critical care records - must be accessible to all patients at no cost and with no special effort. Noncompliance (known as "information blocking") carries a fine of up to $1 million for each violation.
 
 
-**References**  
+**References**
 * https://www.gsa.gov/reference/forms/medical-record-anesthesia
 * [ASA Monitor:Open Anesthesia Records: Guidance for Anesthesia Providers on Implementing the Cures Act](https://pubs.asahq.org/monitor/article/85/2/e3/115119/Open-Anesthesia-Records-Guidance-for-Anesthesia)
 * [FDA: guidance for anesthesia on implementing the Cures Act](https://www.opennotes.org/research/open-anesthesia-records-guidance-for-anesthesia-providers-on-implementing-the-cures-act)
