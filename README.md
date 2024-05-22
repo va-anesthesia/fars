@@ -2,11 +2,11 @@
 
 **OBJECTIVE**
 
-**The Federal Anesthesia Record Standard (FARS) is a peer-reviewed, practice-driven public-licensed information model to enable computable exchange of the electronic anesthesia record between the electronic health record (EHR) systems of the VA, DoD, and Community.**  
+**The Federal Anesthesia Record Standard (FARS) is a peer-reviewed, practice-driven public-licensed information model to enable computable exchange of the electronic anesthesia record between anesthesia information management systems (AIMS) and electronic health record (EHR) systems nationwide.**  
 
-FARS is based on [JSON](https://en.wikipedia.org/wiki/JSON), the data model used by all internet connected devices, and used by the international health record exchange standard.
+FARS is based on [JSON](https://en.wikipedia.org/wiki/JSON), the data model used by all (over 16 billion) internet connected systems and devices, and also used by the international health record exchange standard [FHIR](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources)
 
-Implementing FAM complies with the 2016 U.S. [CURES Act](https://en.wikipedia.org/wiki/21st_Century_Cures_Act) which requrires that the patients' health record - including all anesthesia and critical care records - must be accessible to all patients at no cost and with no special effort. Noncompliance -  known as "information blocking" - carries a fine of up to $1 million for each violation.
+Implementing FARS complies with the 2016 U.S. [CURES Act](https://en.wikipedia.org/wiki/21st_Century_Cures_Act) which requrires that the patients' health record - including all anesthesia and critical care records - must be accessible to all patients at no cost and with no special effort. Noncompliance -  known as "information blocking" - carries a fine of up to $1 million for each violation.
 
 
 Federal Standard for Anesthesia Record:   
